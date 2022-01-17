@@ -1,0 +1,5 @@
+1. Create Login/ Sign Up Screen.
+2. Add Firebase 
+3. Create HomeSreen
+4. Add Search screen
+5. Add User profile screen
