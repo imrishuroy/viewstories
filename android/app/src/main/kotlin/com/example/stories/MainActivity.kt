@@ -1,4 +1,4 @@
-package com.sixteenbrains.stories
+package com.taleway.taleway
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sixteenbrains.stories">
+    package="com.taleway.taleway">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="Stories"
+        android:label="Taleway"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

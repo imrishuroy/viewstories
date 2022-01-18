@@ -1,7 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-
 import 'screens/home/home_screen.dart';
 
 void main() async {
@@ -9,11 +8,11 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyCsvn4NBagvGBtiBa-y3vuC3NWH2DHmSA4',
-        appId: '1:790115238458:web:6ea85980c476c2c636ab03',
-        messagingSenderId: '790115238458',
-        projectId: 'stories-6f441',
-        storageBucket: 'instagram-clone-4cea4.appspot.com',
+        apiKey: 'AIzaSyAog5tvJGNb63Hjbe6TpPVPW_Qp_D9iKRs',
+        appId: '1:526121573343:web:b0caef970924f065c6c26a',
+        messagingSenderId: '526121573343',
+        projectId: 'viewyourstories-4bf4d',
+        storageBucket: 'viewyourstories-4bf4d.appspot.com',
       ),
     );
   } else {

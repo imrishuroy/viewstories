@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526121573343",
+    "project_id": "viewyourstories-4bf4d",
+    "storage_bucket": "viewyourstories-4bf4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526121573343:android:f0c3291d61d3ae61c6c26a",
+        "android_client_info": {
+          "package_name": "com.taleway.taleway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526121573343-4v3enc67m0dpmhjf5n37v5ia2nogdgsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taleway.taleway",
+            "certificate_hash": "c1e3ed2d56469c9d9820a1c991e84ee2c96966bb"
+          }
+        },
+        {
+          "client_id": "526121573343-onfls77n0h0ltfiffupaoqq770raqnu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcYdDpcq9iGeKkyOTD9GS_tAvkKgZQfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526121573343-onfls77n0h0ltfiffupaoqq770raqnu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
